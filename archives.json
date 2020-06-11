@@ -1,0 +1,11 @@
+{
+  "uid": 50,
+  "name": "Yuki",
+  "domain": "yuki.la",
+  "http": true,
+  "https": true,
+  "software": "foolfuuka",
+  "boards": ["gif"],
+  "files": ["gif"],
+  "reports": true
+}
